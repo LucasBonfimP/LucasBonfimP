@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Bonfim 👋🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbonfimpires/)
 
-![LucasBonfimP GitHub stats](https://github-readme-stats.vercel.app/api?username=Python&show_icons=true&theme=radical)
+![LucasBonfimP GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBonfimP&show_icons=true&theme=radical)
 
 
 ## Tecnologias utilizadas no meu dia a dia
